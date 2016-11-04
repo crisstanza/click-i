@@ -1,14 +1,16 @@
 # click-i
 
-    https://crisstanza.github.io/click-i/
+Dojo - Click/Invert - um jogo simples em HTML/JavaScript/CSS - 02-Nov-2016
+
+    https://crisstanza.github.io/dojo-click-i/
 
 ## gh-pages
 
-    https://crisstanza.github.io/click-i/001
-    https://crisstanza.github.io/click-i/001-solution
-    https://crisstanza.github.io/click-i/002-solution
-    https://crisstanza.github.io/click-i/003-solution
-    https://crisstanza.github.io/click-i/004-solution
+    https://crisstanza.github.io/dojo-click-i/000
+    https://crisstanza.github.io/dojo-click-i/001-solution
+    https://crisstanza.github.io/dojo-click-i/002-solution
+    https://crisstanza.github.io/dojo-click-i/003-solution
+    https://crisstanza.github.io/dojo-click-i/004-solution
 
 
 ## SSH keys:
