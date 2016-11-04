@@ -2,7 +2,7 @@
 
 Dojo - Click/Invert - um jogo simples em HTML/JavaScript/CSS - 02-Nov-2016
 
-    https://crisstanza.github.io/dojo-click-i/
+<a href="https://crisstanza.github.io/dojo-click-i/" target="_blank">https://crisstanza.github.io/dojo-click-i/</a>
 
 ## gh-pages
 
