@@ -1,0 +1,14 @@
+.HIDE { display: none; }
+
+td {
+    border: 1px solid black;
+	width: 64px;
+	height: 64px;
+}
+
+table { margin: auto; }
+
+.Black { background-color: black; }
+.White{ background-color: white; }
+
+div { text-align: center; }
